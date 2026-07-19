@@ -1,0 +1,13 @@
+# 研发记录
+chat.txt
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+
+# Temporary files
+*.tmp
+*.swp
+*~
