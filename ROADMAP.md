@@ -55,18 +55,17 @@ Personal Capital OS 的发展路线图。这是一个活文档，会随着认知
 - [x] 新增模型：资产定价模型、行为金融模型
 - [x] 新增案例：Adobe（SaaS转型）、华为（技术壁垒）
 
+### v2.0 — AI Copilot 与知识图谱（2026-07-19）
+
+- [x] AI Copilot — 输入问题自动调用 OS + Cases + Models（触发逻辑表+输出模板）
+- [x] Knowledge Graph — 5 大核心节点×引力矩阵（长期主义、护城河、复利、决策、创新）
+- [x] 评估打分体系 — 投资评分卡 + 企业质量评分卡 + 市场情绪温度计
+- [x] 模型交叉引用体系（Models/README.md）
+- [x] 五大 OS 联动机制标准化（OS/README.md）
+
 ## 进行中 🚧
 
-## 计划中 📋
-
-### v2.0 — AI Copilot 与知识图谱
-
-- [ ] AI Copilot：输入问题自动调用 OS + Cases + Models
-- [ ] Knowledge Graph 交互式可视化
-- [ ] Personal Capital Dashboard 原型
-- [ ] 模型之间交叉引用体系
-- [ ] 五大 OS 联动机制标准化
-- [ ] 开发评估打分体系
+## 未来规划 📋
 
 ## 未来探索 🔬
 
